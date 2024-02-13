@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\MaskedTextBox-örnek\MaskedTextBox-örnek\bin\Debug\MaskedTextBox-örnek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\MaskedTextBox-örnek\MaskedTextBox-örnek\bin\Debug\MaskedTextBox-örnek.exe
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\MaskedTextBox-örnek\MaskedTextBox-örnek\bin\Debug\MaskedTextBox-örnek.pdb
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\MaskedTextBox-örnek\MaskedTextBox-örnek\obj\Debug\MaskedTextBox-örnek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\MaskedTextBox-örnek\MaskedTextBox-örnek\obj\Debug\MaskedTextBox-örnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\MaskedTextBox-örnek\MaskedTextBox-örnek\obj\Debug\MaskedTextBox_örnek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\MaskedTextBox-örnek\MaskedTextBox-örnek\obj\Debug\MaskedTextBox_örnek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\MaskedTextBox-örnek\MaskedTextBox-örnek\obj\Debug\MaskedTextBox-örnek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\MaskedTextBox-örnek\MaskedTextBox-örnek\obj\Debug\MaskedTextBox-örnek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\MaskedTextBox-örnek\MaskedTextBox-örnek\obj\Debug\MaskedTextBox-örnek.exe
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\MaskedTextBox-örnek\MaskedTextBox-örnek\obj\Debug\MaskedTextBox-örnek.pdb
